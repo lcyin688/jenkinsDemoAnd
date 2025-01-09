@@ -1,0 +1,11 @@
+{
+  "ndk": "/Users/apple/Library/Android/sdk/ndk/28.0.12674087",
+  "revision": {
+    "mMajor": 28,
+    "mMinor": 0,
+    "mMicro": 12674087,
+    "mPreview": 0,
+    "mPrecision": "MICRO",
+    "mPreviewSeparator": " "
+  }
+}
