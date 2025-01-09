@@ -1,0 +1,2 @@
+/Volumes/work/jenkinsDemo/build/jsb-link/frameworks/runtime-src/proj.android-studio/instantapp/jni/Android.mk
+/Volumes/work/jenkinsDemo/build/jsb-link/frameworks/runtime-src/proj.android-studio/instantapp/jni/Application.mk
