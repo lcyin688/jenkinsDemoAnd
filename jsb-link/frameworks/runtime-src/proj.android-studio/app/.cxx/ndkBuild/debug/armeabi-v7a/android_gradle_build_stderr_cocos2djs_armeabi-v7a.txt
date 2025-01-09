@@ -1,0 +1,506 @@
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/manual/jsb_conversions.cpp:329:9: warning: 'snprintf' will always be truncated; specified size is 3, but format string expands to at least 4 [-Wformat-truncation]
+  329 |         snprintf(propName, 3, "m%2d", i);
+      |         ^
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/manual/jsb_conversions.cpp:2763:17: warning: 'snprintf' will always be truncated; specified size is 3, but format string expands to at least 4 [-Wformat-truncation]
+ 2763 |                 snprintf(propName, 3, "m0%d", i);
+      |                 ^
+2 warnings generated.
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+In file included from /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/ScriptEngine.cpp:47:
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/env.h:528:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  528 |     that->Set(context(), name_string, function);
+      |     ^~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+In file included from /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/env.cc:1:
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/env.h:528:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  528 |     that->Set(context(), name_string, function);
+      |     ^~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+In file included from /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:6:
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/env.h:528:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  528 |     that->Set(context(), name_string, function);
+      |     ^~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:402:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  402 |     obj->Set(env->context(), env->errno_string(), Integer::New(env->isolate(), errorno));
+      |     ^~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:403:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  403 |     obj->Set(env->context(), env->code_string(), estring);
+      |     ^~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:406:9: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  406 |         obj->Set(env->context(), env->path_string(), path_string);
+      |         ^~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:410:9: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  410 |         obj->Set(env->context(), env->syscall_string(), OneByteString(env->isolate(), syscall));
+      |         ^~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:480:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  480 |     e->Set(env->context(), env->errno_string(), Integer::New(isolate, errorno));
+      |     ^~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:481:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  481 |     e->Set(env->context(), env->code_string(), js_code);
+      |     ^~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:482:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  482 |     e->Set(env->context(), env->syscall_string(), js_syscall);
+      |     ^~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:484:9: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  484 |         e->Set(env->context(), env->path_string(), js_path);
+      |         ^~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:486:9: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  486 |         e->Set(env->context(), env->dest_string(), js_dest);
+      |         ^~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:805:66: warning: adding 'int' to a string does not append to the string [-Wstring-plus-int]
+  803 |     READONLY_PROPERTY(versions,
+      |     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  804 |                       "node",
+      |                       ~~~~~~~
+  805 |                       OneByteString(env->isolate(), NODE_VERSION + 1));
+      |                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:731:9: note: expanded from macro 'READONLY_PROPERTY'
+  731 |         var,                                               \
+      |         ^~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:805:66: note: use array indexing to silence this warning
+  805 |                       OneByteString(env->isolate(), NODE_VERSION + 1));
+      |                                                                  ^
+      |                                                     &            [
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:731:9: note: expanded from macro 'READONLY_PROPERTY'
+  731 |         var,                                               \
+      |         ^
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:911:9: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  911 |         arguments->Set(env->context(), i, String::NewFromUtf8(env->isolate(), argv[i], v8::NewStringType::kNormal).ToLocalChecked());
+      |         ^~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:913:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  913 |     process->Set(env->context(), FIXED_ONE_BYTE_STRING(env->isolate(), "argv"), arguments);
+      |     ^~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:918:9: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  918 |         exec_arguments->Set(env->context(), i, String::NewFromUtf8(env->isolate(), exec_argv[i], v8::NewStringType::kNormal).ToLocalChecked());
+      |         ^~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:920:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  920 |     process->Set(env->context(), FIXED_ONE_BYTE_STRING(env->isolate(), "execArgv"),
+      |     ^~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  921 |                  exec_arguments);
+      |                  ~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/node.cc:1130:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+ 1130 |     process->Set(env->context(),env->events_string(), events_obj);
+      |     ^~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+16 warnings generated.
+fcntl(): Bad file descriptor
+In file included from /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/inspector_agent.cc:6:
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/env.h:528:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  528 |     that->Set(context(), name_string, function);
+      |     ^~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/inspector_agent.cc:675:3: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  675 |   message->Set(parent_env_->context(), FIXED_ONE_BYTE_STRING(isolate, "cmd"),
+      |   ^~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  676 |                FIXED_ONE_BYTE_STRING(isolate, "NODE_DEBUG_ENABLED"));
+      |                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2 warnings generated.
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+In file included from /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/inspector_io.cc:5:
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger/env.h:528:5: warning: ignoring return value of function declared with 'warn_unused_result' attribute [-Wunused-result]
+  528 |     that->Set(context(), name_string, function);
+      |     ^~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/external/sources/tremolo/Tremolo/floor0.c:61:13: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+   61 |   if(a<(-140<<12)) return 0;
+      |         ~~~~^
+1 warning generated.
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/editor-support/dragonbones/parser/JSONDataParser.cpp:498:13: warning: enumeration value 'Path' not handled in switch [-Wswitch]
+  498 |     switch (type)
+      |             ^~~~
+1 warning generated.
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:313:5: warning: non-void function does not return a value [-Wreturn-type]
+  313 |     }
+      |     ^
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:360:17: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+  360 |         jint id[size];
+      |                 ^~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:360:17: note: read of non-const variable 'size' is not allowed in a constant expression
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:359:13: note: declared here
+  359 |         int size = env->GetArrayLength(ids);
+      |             ^
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:361:18: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+  361 |         jfloat x[size];
+      |                  ^~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:361:18: note: read of non-const variable 'size' is not allowed in a constant expression
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:359:13: note: declared here
+  359 |         int size = env->GetArrayLength(ids);
+      |             ^
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:362:18: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+  362 |         jfloat y[size];
+      |                  ^~~~
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:362:18: note: read of non-const variable 'size' is not allowed in a constant expression
+/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:359:13: note: declared here
+  359 |         int size = env->GetArrayLength(ids);
+      |             ^
+4 warnings generated.
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
+fcntl(): Bad file descriptor
